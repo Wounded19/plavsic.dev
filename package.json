@@ -1,0 +1,40 @@
+{
+  "name": "plavsic.dev",
+  "version": "0.1.0",
+  "description": "Personal Blog and Website",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next -p 5555 ",
+    "build": "next build",
+    "start": "next start -p 5555"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wounded19/plavsic.dev.git"
+  },
+  "keywords": [
+    "Nikola",
+    "Plavsic",
+    "Development",
+    "Website",
+    "React",
+    "NextJS"
+  ],
+  "author": "Nikola Plavsic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wounded19/plavsic.dev/issues"
+  },
+  "homepage": "https://github.com/Wounded19/plavsic.dev#readme",
+  "dependencies": {
+    "next": "9.5.2",
+    "next-google-fonts": "1.2.1",
+    "next-seo": "4.7.3",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "devDependencies": {
+    "@babel/core": "7.11.1",
+    "@babel/preset-env": "7.11.0"
+  }
+}
