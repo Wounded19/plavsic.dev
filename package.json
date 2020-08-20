@@ -20,21 +20,35 @@
     "React",
     "NextJS"
   ],
-  "author": "Nikola Plavsic",
+  "author": {
+    "name": "Nikola Plavsic",
+    "url": "https://plavsic.dev"
+  },
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Wounded19/plavsic.dev/issues"
   },
   "homepage": "https://github.com/Wounded19/plavsic.dev#readme",
   "dependencies": {
+    "@chakra-ui/core": "^0.8.0",
+    "@emotion/core": "^10.0.35",
+    "@emotion/styled": "^10.0.27",
+    "@mdx-js/loader": "^1.6.16",
+    "@mdx-js/react": "^1.6.16",
+    "@next/mdx": "^9.5.2",
+    "emotion-theming": "^10.0.27",
     "next": "9.5.2",
     "next-google-fonts": "1.2.1",
     "next-seo": "4.7.3",
+    "nprogress": "^0.2.0",
+    "prop-types": "^15.7.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   },
   "devDependencies": {
     "@babel/core": "7.11.1",
-    "@babel/preset-env": "7.11.0"
+    "@babel/preset-env": "7.11.0",
+    "eslint": "7.7.0",
+    "prettier": "2.0.5"
   }
 }
