@@ -13,12 +13,12 @@ const NavStyles = styled(Flex)`
 const Homepage = () => {
   return (
     <Container>
-      <header>HEADER</header>
-      <Nav></Nav>
+      {/* <header>HEADER</header> */}
+      {/* <Nav></Nav> */}
       <main>
-        <Heading>WIP MAIN</Heading>
+        <Heading>Poy</Heading>
       </main>
-      <footer>FOOTER</footer>
+      <footer>Rešim sajt čim uhvatim vremena!</footer>
     </Container>
   );
 };
