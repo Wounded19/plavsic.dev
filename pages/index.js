@@ -16,9 +16,9 @@ const Homepage = () => {
       {/* <header>HEADER</header> */}
       {/* <Nav></Nav> */}
       <main>
-        <Heading>Poy</Heading>
+        <Heading>WIP</Heading>
       </main>
-      <footer>Rešim sajt čim uhvatim vremena!</footer>
+      <footer>I'm working on it. Hope to have something soon..</footer>
     </Container>
   );
 };
